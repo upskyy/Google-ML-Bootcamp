@@ -1,4 +1,4 @@
-# Google_ML_Bootcamp
+# Google ML Bootcamp
 
 ### About Google Developers Machine Learning Bootcamp
 
